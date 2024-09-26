@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## UI Look Like This 
+
+![Untitled design](https://github.com/user-attachments/assets/0b88dbe0-e607-4cb2-ac5d-8a58561d1063)
+
+![Untitled design (1)](https://github.com/user-attachments/assets/0556d497-0bbe-406f-b366-86d02887006d)
 
 This project is a starting point for a Flutter application.
 
